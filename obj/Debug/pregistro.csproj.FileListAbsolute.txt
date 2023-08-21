@@ -1,0 +1,15 @@
+C:\pregistro\obj\Debug\pregistro.csproj.AssemblyReference.cache
+C:\pregistro\obj\Debug\pregistro.csproj.SuggestedBindingRedirects.cache
+C:\pregistro\obj\Debug\pregistro.Formas.Frmalta.resources
+C:\pregistro\obj\Debug\pregistro.Formas.Frmbaja.resources
+C:\pregistro\obj\Debug\pregistro.Formas.Frmfecha.resources
+C:\pregistro\obj\Debug\pregistro.Formas.Frmlogin.resources
+C:\pregistro\obj\Debug\pregistro.Formas.Frmreporte.resources
+C:\pregistro\obj\Debug\pregistro.Properties.Resources.resources
+C:\pregistro\obj\Debug\pregistro.csproj.GenerateResource.cache
+C:\pregistro\obj\Debug\pregistro.csproj.CoreCompileInputs.cache
+C:\pregistro\bin\Debug\pregistro.exe.config
+C:\pregistro\bin\Debug\pregistro.exe
+C:\pregistro\bin\Debug\pregistro.pdb
+C:\pregistro\obj\Debug\pregistro.exe
+C:\pregistro\obj\Debug\pregistro.pdb
